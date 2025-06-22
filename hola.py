@@ -10,4 +10,10 @@ saludarIngles("Camila")
 
 def saludarFrances(nombre):
     print("Bonjour, " + nombre)
+
 saludarFrances("Camila")
+
+def saludarJapones(nombre):
+    print("こんにちは, " + nombre)
+
+saludarJapones("Camila")
